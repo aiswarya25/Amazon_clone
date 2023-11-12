@@ -196,6 +196,9 @@ span{
 }
 
 /*footer*/
+footer{
+    margin-top: 15px;
+}
 .foot-panel{
     background-color: #37475a;
     color: white;
@@ -204,5 +207,5 @@ span{
     justify-content: center;
     align-items: center;
     font-size: 0.85rem;
-    
+
 }
